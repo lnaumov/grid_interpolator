@@ -941,4 +941,4 @@ def generate_vars_dictionary(input_names, output_names, path2save, grid_type):
         for j in range(len(tmp_keys)):
             tmp_dict[tmp_keys[j]] = whole_list[j][i]
         vars_dict[input_names[i]] = tmp_dict
-    return vars_dic
+    return vars_dict
