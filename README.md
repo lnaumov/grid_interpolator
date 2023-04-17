@@ -1,4 +1,4 @@
-# grid_interpolator
+# masked_grid_interpolator
 This repository contains a script interpolating masked model data (1D, 2D, 3D, or 4D) from one regular model grid to another.
 # Usage:
 1. **Make sure you have the following python libraries installed:**
